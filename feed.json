@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "barradas portfolio",
+    "description": "",
+    "home_page_url": "https://claudiabarradas.github.io/portfolio",
+    "feed_url": "https://claudiabarradas.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "claudia barradas"
+    },
+    "items": [
+        {
+            "id": "https://claudiabarradas.github.io/portfolio/moon.html",
+            "url": "https://claudiabarradas.github.io/portfolio/moon.html",
+            "title": "Moon",
+            "summary": "2018",
+            "content_html": "2018",
+            "author": {
+                "name": "claudia barradas"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T12:23:28+01:00",
+            "date_modified": "2019-12-12T12:23:28+01:00"
+        },
+        {
+            "id": "https://claudiabarradas.github.io/portfolio/chair.html",
+            "url": "https://claudiabarradas.github.io/portfolio/chair.html",
+            "title": "Chair",
+            "summary": "n5",
+            "content_html": "n5",
+            "author": {
+                "name": "claudia barradas"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T12:23:18+01:00",
+            "date_modified": "2019-12-12T12:23:18+01:00"
+        },
+        {
+            "id": "https://claudiabarradas.github.io/portfolio/portfolio.html",
+            "url": "https://claudiabarradas.github.io/portfolio/portfolio.html",
+            "title": "Portfolio",
+            "summary": "Hello, I am Claudia and this is my portfolio.",
+            "content_html": "Hello, I am Claudia and this is my portfolio.",
+            "author": {
+                "name": "claudia barradas"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T12:21:40+01:00",
+            "date_modified": "2019-12-12T12:21:40+01:00"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>barradas portfolio</title>
+    <link href="https://claudiabarradas.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://claudiabarradas.github.io/portfolio" />
+    <updated>2019-12-12T12:41:35+01:00</updated>
+    <author>
+        <name>claudia barradas</name>
+    </author>
+    <id>https://claudiabarradas.github.io/portfolio</id>
+
+    <entry>
+        <title>Moon</title>
+        <author>
+            <name>claudia barradas</name>
+        </author>
+        <link href="https://claudiabarradas.github.io/portfolio/moon.html"/>
+        <id>https://claudiabarradas.github.io/portfolio/moon.html</id>
+
+        <updated>2019-12-12T12:23:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    2018
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                2018
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chair</title>
+        <author>
+            <name>claudia barradas</name>
+        </author>
+        <link href="https://claudiabarradas.github.io/portfolio/chair.html"/>
+        <id>https://claudiabarradas.github.io/portfolio/chair.html</id>
+
+        <updated>2019-12-12T12:23:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    n5
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                n5
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Portfolio</title>
+        <author>
+            <name>claudia barradas</name>
+        </author>
+        <link href="https://claudiabarradas.github.io/portfolio/portfolio.html"/>
+        <id>https://claudiabarradas.github.io/portfolio/portfolio.html</id>
+
+        <updated>2019-12-12T12:21:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, I am Claudia and this is my portfolio.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Hello, I am Claudia and this is my portfolio.
+            ]]>
+        </content>
+    </entry>
+</feed>
